@@ -1,0 +1,1 @@
+# modelo_secuencial_simple_grafico
